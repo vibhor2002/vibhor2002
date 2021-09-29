@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning Backend Frameworks
 - 📫 How to reach me 
      Email: grovervibhor21@gmail.com
+     
+     ![Github stats](https://github-readme-stats.vercel.app/api?username=vibhor2002)
+
 
 <!---
 vibhor2002/vibhor2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
