@@ -4,8 +4,8 @@
 - 👋 Hi, I’m Vibhor Grover
 - 👨🏻‍🎓 Currently studying in Netaji Subhash University of Technology
 - 🏠 I live in New Delhi
-- 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning React.js , Node.js. 
+- 👀 I’m interested in Web Technologies.
+- 🌱 I’m currently learning MERN , React.js , Node.js. 
 - 📫 How to reach me Email: grovervibhor21@gmail.com
 - ⚡ Fun fact: I love listening to Music
 
